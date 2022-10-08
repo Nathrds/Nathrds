@@ -1,2 +1,2 @@
 ### Future programmer⚡ 
-![CCÓPIA-capa LinkedIn](https://user-images.githubusercontent.com/106173624/185235895-b89922c2-1b83-4cae-a62a-3c55491d3f06.png)
+![capa menor](https://user-images.githubusercontent.com/106173624/194683325-f2c18070-5c98-4647-9d30-29c1fd7f54a3.png)
