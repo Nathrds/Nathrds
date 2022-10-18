@@ -1,5 +1,6 @@
 ### Nathália Rodrigues⚡
-![Logo NR dev-200](https://user-images.githubusercontent.com/106173624/196534271-d6bc8547-3f92-46f3-a568-b4f5f78962cd.png)
+
+![LogoNR_dev200](https://user-images.githubusercontent.com/106173624/196537934-da85651b-7177-4bf7-a0d7-242a9952c2f5.png)
 
   ##
 
