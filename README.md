@@ -1,7 +1,8 @@
-### Software Developer⚡ 
-![Logo NR dev350](https://user-images.githubusercontent.com/106173624/196531954-15c14a1b-56ec-4a44-b12f-ea88e67bf293.png)
+### Nathália Rodrigues⚡
+![Logo NR dev-200](https://user-images.githubusercontent.com/106173624/196534271-d6bc8547-3f92-46f3-a568-b4f5f78962cd.png)
 
   ##
+
 
 
 <div>
