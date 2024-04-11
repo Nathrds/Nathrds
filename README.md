@@ -1,5 +1,7 @@
 ### Nathália Rodrigues⚡
 
+[![aws-certified-cloud-practitioner](https://github.com/Nathrds/Nathrds/assets/106173624/65e896cf-7bfa-4c7d-8ab1-975a6ff6095a) https://www.credly.com/badges/34111fd1-29d9-464b-b496-f92ff4797e67/public_url] https://www.credly.com/badges/34111fd1-29d9-464b-b496-f92ff4797e67/public_url
+
 ![LogoNR_dev300](https://user-images.githubusercontent.com/106173624/196539329-e70a5eb4-68a7-44b2-98e4-ca588afe0633.png)
 
   ##
