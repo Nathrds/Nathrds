@@ -1,6 +1,7 @@
 ### Nathália Rodrigues⚡
 <div>
-  <a href="https://www.credly.com/badges/34111fd1-29d9-464b-b496-f92ff4797e67/public_url" target="_blank"><img src="![aws-certified-cloud-practitioner (3)](https://github.com/Nathrds/Nathrds/assets/106173624/2bf855b2-a1c2-4add-8b29-df78a81e75b0)" target="_blank"></a>
+  ![aws-certified-cloud-practitioner (4)](https://github.com/Nathrds/Nathrds/assets/106173624/fc779d44-5ec0-48d9-878d-9e468303a3f4) <br>
+  [AWS Cloud Practitioner CLF_C02](https://www.credly.com/badges/34111fd1-29d9-464b-b496-f92ff4797e67/public_url)
 </div>
 
 ![LogoNR_dev300](https://user-images.githubusercontent.com/106173624/196539329-e70a5eb4-68a7-44b2-98e4-ca588afe0633.png)
